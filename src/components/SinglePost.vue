@@ -19,7 +19,7 @@ export default {
         const snippet = computed( () => {
             return props.post.body.substring(0,100) + "...."
         })
-
+       
     return { snippet }
     }
 }
