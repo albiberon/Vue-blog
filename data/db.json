@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "ates",
+      "body": "walla",
+      "tags": [],
+      "id": 3
+    },
+    {
+      "title": "Alo alo new post",
+      "body": "alo  alo gercekten calisti",
+      "tags": [
+        "photoshop",
+        "bokpusur"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Router test",
+      "body": "yes  it works",
+      "tags": [
+        "vue"
+      ],
+      "id": 5
+    }
+  ]
+}
